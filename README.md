@@ -16,7 +16,7 @@ Needed a backend API to complement my other project, [Frontend Facebook](https:/
 * [Post] new Facebook post
 * [Post] new comment to an existing post
 
-## Key tools
+## Key Tools
 
 MongoDB, Express on Node.js
 
